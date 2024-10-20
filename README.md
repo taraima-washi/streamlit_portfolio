@@ -1,0 +1,2 @@
+# streamlit_portfolio
+MDXQ2024のpython_de_ポートフォリオチャンネルの課題用
